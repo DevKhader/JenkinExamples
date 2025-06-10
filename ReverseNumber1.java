@@ -1,4 +1,4 @@
-class ReverseNumber
+class ReverseNumber1
 {
 public static void main(String args[])
 {
